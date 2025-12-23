@@ -7,6 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'c2ea57f92dd459f0857d477589d07a94' => $vendorDir . '/symfony/polyfill-intl-normalizer/bootstrap.php',
-    '3499c5aeba73fca5baff5a6cbae9885c' => $vendorDir . '/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php',
     '9678d943e25c4fc0b73f7a16051ad4d7' => $vendorDir . '/symfony/polyfill-intl-idn/bootstrap.php',
 );
